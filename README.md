@@ -39,8 +39,8 @@ sql`INSERT INTO users (id, name, department) VALUES (${id}, ${name}, ${departmen
 //=> {text: "INSERT INTO users (id, name, department) VALUES ($1, $2, $3)", values: [1, 'John Doe', 'IT']}
 ```
 
-[build-img]:https://github.com/NikosTsompanides/actions/workflows/release.yml/badge.svg
-[build-url]:https://github.com/NikosTsompanides/actions/workflows/release.yml
+[build-img]:https://github.com/NikosTsompanides/sequel-tag/actions/workflows/release.yml/badge.svg
+[build-url]:https://github.com/NikosTsompanides/sequel-tag/actions/workflows/release.yml
 [downloads-img]:https://img.shields.io/npm/dt/sequel-tag
 [downloads-url]:https://www.npmtrends.com/sequel-tag
 [npm-img]:https://img.shields.io/npm/v/sequel-tag

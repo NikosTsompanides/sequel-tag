@@ -1,7 +1,7 @@
 {
   "name": "sequel-tag",
   "version": "0.0.0-development",
-  "description": "A template for creating npm packages using TypeScript and VSCode",
+  "description": "A simple yet secure and powerful utility function for composing SQL queries in JavaScript or TypeScript. ",
   "main": "./lib/index.js",
   "files": [
     "lib/**/*"
