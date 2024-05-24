@@ -1,5 +1,5 @@
 {
-  "name": "typescript-npm-package-template",
+  "name": "sequel-tag",
   "version": "0.0.0-development",
   "description": "A template for creating npm packages using TypeScript and VSCode",
   "main": "./lib/index.js",
@@ -23,12 +23,12 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Ryan Sonshine",
-    "email": "ryansonshine@users.noreply.github.com",
-    "url": "https://github.com/ryansonshine"
+    "name": "Nikos Tsompanides",
+    "email": "nikostsompanides@gmail.com",
+    "url": "https://github.com/NikosTsompanides"
   },
   "engines": {
-    "node": ">=12.0"
+    "node": ">=16.0"
   },
   "keywords": [
     "boilerplate",
@@ -42,9 +42,9 @@
     "codecov"
   ],
   "bugs": {
-    "url": "https://github.com/ryansonshine/typescript-npm-package-template/issues"
+    "url": "https://github.com/NikosTsompanides/sequel-tag/issues"
   },
-  "homepage": "https://github.com/ryansonshine/typescript-npm-package-template#readme",
+  "homepage": "https://github.com/NikosTsompanides/sequel-tag#readme",
   "devDependencies": {
     "@ryansonshine/commitizen": "^4.2.8",
     "@ryansonshine/cz-conventional-changelog": "^3.3.4",
