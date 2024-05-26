@@ -18,7 +18,7 @@
 - **SQL Injection Prevention**: Safeguard your queries against SQL injection attacks with built-in parameterization.
 - **TypeScript Support**: Enjoy seamless integration with TypeScript, complete with type safety and intelligent autocompletion.
 - **Debugging Made Fun**: Log or inspect the generated SQL script along with parameter values for easy debugging and troubleshooting.
-- **Composable and Versatile**: Construct complex queries by combining multiple `sql` function calls, each representing a part of the overall query.
+
 
 ## Install
 
