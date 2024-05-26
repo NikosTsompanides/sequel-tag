@@ -9,7 +9,7 @@
 [![Semantic Release][semantic-release-img]][semantic-release-url]
 
 
-`sequel-tag` is a simple yet elegant and powerful utility function for composing SQL queries in JavaScript or TypeScript.
+`sequel-tag` is a simple yet secure and powerful utility function for composing SQL queries in JavaScript or TypeScript.
 
 ## Features
 
